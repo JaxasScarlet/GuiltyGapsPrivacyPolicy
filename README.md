@@ -1,0 +1,2 @@
+# GuiltyGapsPrivacyPolicy
+GGaps Privacy Policy
